@@ -1,0 +1,12 @@
+/bin/
+pkg/
+build/
+coverage/
+.idea
+.vscode/
+*.log
+*.swp
+.DS_Store
+source.tar.gz
+src/go/*/main/main
+.idea/
