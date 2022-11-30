@@ -1,0 +1,5 @@
+openapi: 3.0.1
+
+info:
+  title: test api
+  version: 1.0.0
